@@ -1,4 +1,4 @@
-module github.com/0look/faketime
+module github.com/zqb7/faketime
 
 go 1.20
 
