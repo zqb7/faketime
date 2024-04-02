@@ -5,7 +5,7 @@
 
 ## EXAMPLE
 ```
-fatime.FixTime(2000, 12, 30, 14, 00, 00)
+faketime.FixTime(2000, 12, 30, 14, 00, 00)
 fmt.Println(time.Now())
 # input: 2000-12-30 14:00:00 +0800 CST
 ```
